@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Keef 👋</h1>
+<h1 align="center">Hola, soy Julian 👋</h1>
 
 <h3 align="center">Software Engineer | Backend & AI Enthusiast | Builder</h3>
 
@@ -20,9 +20,16 @@
 
 ### 🏆 Certificaciones
 
-* **Cisco Hardware** - [Ver Credencial](https://www.credly.com/badges/4c189fac-fe83-4892-9280-c0f4a4699a70/public_url)
-* **Cisco IT Essentials** - [Ver Credencial](https://www.credly.com/badges/c102394d-df5f-40dc-af49-3e114019b33b/public_url)
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><a href="https://www.credly.com/badges/4c189fac-fe83-4892-9280-c0f4a4699a70/public_url" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Cisco_logo_blue_2016.svg" width="80" alt="Cisco Logo"/><br><b>Cisco: Hardware</b></a></td>
+      <td align="center"><a href="https://www.credly.com/badges/c102394d-df5f-40dc-af49-3e114019b33b/public_url" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Cisco_logo_blue_2016.svg" width="80" alt="Cisco Logo"/><br><b>Cisco: IT Essentials</b></a></td>
+    </tr>
+  </table>
+</div>
 
+---
 
 ### 🚀 Proyectos Destacados
 
@@ -43,13 +50,6 @@ Me inspiro en referentes técnicos locales e internacionales para mantener un es
 
 ---
 
-### 🏆 Certificaciones
-
-* **Cisco Hardware** - [Ver Credencial](https://www.credly.com/badges/4c189fac-fe83-4892-9280-c0f4a4699a70/public_url)
-* **Cisco IT Essentials** - [Ver Credencial](https://www.credly.com/badges/c102394d-df5f-40dc-af49-3e114019b33b/public_url)
-
----
-
 ### 📫 Conecta conmigo
 
 - 💼 [LinkedIn](https://linkedin.com/in/tu-usuario) 
@@ -59,3 +59,4 @@ Me inspiro en referentes técnicos locales e internacionales para mantener un es
 <p align="center">
   <i>"Construyendo software con propósito y escalabilidad."</i>
 </p>
+
