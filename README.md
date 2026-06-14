@@ -18,6 +18,13 @@
 
 ---
 
+### 🏆 Certificaciones
+
+* **Cisco Hardware** - [Ver Credencial](https://www.credly.com/badges/4c189fac-fe83-4892-9280-c0f4a4699a70/public_url)
+* **Cisco IT Essentials** - [Ver Credencial](https://www.credly.com/badges/c102394d-df5f-40dc-af49-3e114019b33b/public_url)
+
+---
+
 ### 🚀 Proyectos Destacados
 
 #### [Task Manager API & Client](https://github.com/keefvampire/task-manager)
@@ -34,6 +41,13 @@ Me inspiro en referentes técnicos locales e internacionales para mantener un es
 1. **Desarrollo Orientado a Producto:** No solo escribo código, pienso en la experiencia del usuario final.
 2. **Fundamentos Fuertes:** Prefiero entender profundamente cómo funciona una API REST y las bases de datos antes de saltar a frameworks mágicos.
 3. **Adopción de IA:** Utilizo asistentes de código e IA como multiplicadores de productividad para iterar más rápido y mejor.
+
+---
+
+### 🏆 Certificaciones
+
+* **Cisco Hardware** - [Ver Credencial](https://www.credly.com/badges/4c189fac-fe83-4892-9280-c0f4a4699a70/public_url)
+* **Cisco IT Essentials** - [Ver Credencial](https://www.credly.com/badges/c102394d-df5f-40dc-af49-3e114019b33b/public_url)
 
 ---
 
