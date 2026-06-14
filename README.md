@@ -23,7 +23,6 @@
 * **Cisco Hardware** - [Ver Credencial](https://www.credly.com/badges/4c189fac-fe83-4892-9280-c0f4a4699a70/public_url)
 * **Cisco IT Essentials** - [Ver Credencial](https://www.credly.com/badges/c102394d-df5f-40dc-af49-3e114019b33b/public_url)
 
----
 
 ### 🚀 Proyectos Destacados
 
