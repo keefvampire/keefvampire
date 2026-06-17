@@ -1,14 +1,14 @@
-<h1 align="center">Hola, soy Julian 👋</h1>
+<h1 align="center">Hola, soy Julian </h1>
 
 <h3 align="center">Software Engineer | Backend & AI Enthusiast | Builder</h3>
 
 <p align="center">
-  Buscando siempre construir sistemas robustos, limpios y escalables. Me apasiona la intersección entre la ingeniería de software tradicional y la integración de Inteligencia Artificial para crear productos que resuelvan problemas reales. Basado en Chile 🇨🇱.
+  Buscando siempre construir sistemas robustos, limpios y escalables. Me apasiona la intersección entre la ingeniería de software tradicional y la integración de Inteligencia Artificial para crear productos que resuelvan problemas reales. Basado en Chile .
 </p>
 
 ---
 
-### 🛠️ Stack Técnico y Herramientas
+###  Stack Técnico y Herramientas
 
 * **Lenguajes:** Python, JavaScript (ES6+), HTML5/CSS3
 * **Backend & APIs:** Flask, RESTful APIs, System Design
@@ -18,7 +18,7 @@
 
 ---
 
-### 🏆 Certificaciones
+###  Certificaciones
 
 <div align="center">
   <table>
@@ -31,7 +31,7 @@
 
 ---
 
-### 🚀 Proyectos Destacados
+###  Proyectos Destacados
 
 #### [Task Manager API & Client](https://github.com/keefvampire/task-manager)
 Un sistema de gestión de tareas tratado como un producto completo end-to-end.
@@ -41,7 +41,7 @@ Un sistema de gestión de tareas tratado como un producto completo end-to-end.
 
 ---
 
-### 🧠 Filosofía de Desarrollo
+###  Filosofía de Desarrollo
 
 Me inspiro en referentes técnicos locales e internacionales para mantener un estándar alto de calidad:
 1. **Desarrollo Orientado a Producto:** No solo escribo código, pienso en la experiencia del usuario final.
